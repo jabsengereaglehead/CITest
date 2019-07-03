@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jabsenger/Test3/_apis/build/status/jabsengereaglehead.CITest?branchName=master)](https://dev.azure.com/jabsenger/Test3/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
